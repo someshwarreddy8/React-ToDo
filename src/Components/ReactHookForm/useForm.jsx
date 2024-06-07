@@ -24,7 +24,7 @@ const UseFormDemo = () => {
                 {errors.exampleRequired && (<span className='text-danger'>This field is required!!!</span>)}
 
                 <button className='my-2 btn btn-primary' type='submit'>submit</button>
-            </form>     
+            </form>         
         </div>
     )
 }
